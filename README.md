@@ -1,0 +1,1 @@
+# KR20171105.excursion_room_constraints
